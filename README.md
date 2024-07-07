@@ -33,9 +33,10 @@ To use this tutorial, follow these steps:
     ```
 
 3. Install the required dependencies (assuming you have Python and pip installed):
-
+    ```bash
    pip install jupyter notebook
    pip install pandas
+    ```
 
 5. Start Jupyter Notebook:
 
