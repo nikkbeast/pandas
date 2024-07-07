@@ -34,17 +34,16 @@ To use this tutorial, follow these steps:
 
 3. Install the required dependencies (assuming you have Python and pip installed):
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   pip install jupyter notebook
+   pip install pandas
 
-4. Start Jupyter Notebook:
+5. Start Jupyter Notebook:
 
     ```bash
     jupyter notebook
     ```
 
-5. Open the desired notebook from the Jupyter interface and follow along with the tutorial.
+6. Open the desired notebook from the Jupyter interface and follow along with the tutorial.
 
 ## Contributing
 
